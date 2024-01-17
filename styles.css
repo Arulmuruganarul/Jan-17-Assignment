@@ -77,9 +77,6 @@
     border-radius: 30px;
     cursor: pointer;
 }
-.btn-sml:hover{
-    scale: 2;
-}
 .splide__arrow.splide__arrow--next{
   background: #fff;
   color:#fff;
@@ -121,7 +118,7 @@
         margin:auto;
     }
     .btn-sml:hover{
-        scale: 2;
+        scale: 1.1;
     }
     .img_box{
         margin: 20px 10px;
@@ -171,7 +168,7 @@
         margin:auto;
     }
     .btn-sml:hover{
-        scale: 2;
+        scale: 1.1;
     }
     .img_box{
         margin: 20px 10px;
