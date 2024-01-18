@@ -59,14 +59,14 @@
    margin: 40px 0;
 }
 .img-dec{
-    width:250px;
+    width:215px;
     position: relative;
     margin-right:10px;
 }
 .arrow-right-icon{
     position: absolute;
     left:20px;
-    top: 250px;
+    top: 230px;
 }
 .btn-sml{
     display:none;
